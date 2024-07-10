@@ -1,10 +1,10 @@
 # Test-artifacts
 Примеры тестовой документации 
 ## Чек-лист
-- [Пример Чек-листа в Goggle Sheets](https://docs.google.com/spreadsheets/d/1JJQGbJL0nIcVcemTYnboXhoQi3G_GIfLmwKp-lqs7FQ/edit?usp=sharing)
+- [Пример Чек-листа в Google Sheets](https://docs.google.com/spreadsheets/d/1JJQGbJL0nIcVcemTYnboXhoQi3G_GIfLmwKp-lqs7FQ/edit?usp=sharing)
 
 ## Тест-кейсы
-- [Примеры тест-кейсов в Goggle Sheets](https://docs.google.com/spreadsheets/d/1dCS7DKHgZDOMgs68lynFhDm6U5dj5MN4LpmnOtX-7kw/edit?usp=sharing)
+- [Примеры тест-кейсов в Google Sheets](https://docs.google.com/spreadsheets/d/1dCS7DKHgZDOMgs68lynFhDm6U5dj5MN4LpmnOtX-7kw/edit?usp=sharing)
 
 1. Авторизация через восстановление пароля по номеру телефона
 
@@ -23,7 +23,7 @@
     ![28](https://github.com/aolesik/Test-artifacts/assets/125824182/3f862c8f-6f76-4d92-9824-c8a8c49f6ad1)
    
 ## Баг-репорты
-- [Примеры Баг-репортов в Goggle Docs](https://docs.google.com/document/d/1Dgv5WmuxOD4z8S1W7gXs9yem7yGqmjkX8a_v2n1J-ks/edit?usp=sharing)
+- [Примеры Баг-репортов в Google Docs](https://docs.google.com/document/d/1Dgv5WmuxOD4z8S1W7gXs9yem7yGqmjkX8a_v2n1J-ks/edit?usp=sharing)
 
 ### Bug-Report №1:
 
